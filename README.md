@@ -1,5 +1,7 @@
 # AI Automation Workflows for E-commerce
 
+**Used in production environments**
+
 This repository contains AI-driven automation workflows used in real-world business operations.
 
 Focus areas:
@@ -22,3 +24,6 @@ The goal is to expand these systems into reusable and open-source automation mod
 
 ## Vision
 Bridging the gap between AI and real-world business operations by building practical, scalable automation systems.
+
+## Development status
+Actively used and evolving from real-world business workflows.
