@@ -1,6 +1,7 @@
 # AI Automation Workflows for E-commerce
 
-**Used in production environments**
+> **Used in production environments**  
+> Real-world e-commerce and logistics workflows
 
 This repository contains AI-driven automation workflows used in real-world business operations.
 
@@ -27,3 +28,15 @@ Bridging the gap between AI and real-world business operations by building pract
 
 ## Development status
 Actively used and evolving from real-world business workflows.
+
+## Roadmap
+
+Planned improvements:
+- Expand automation workflows into modular components
+- Add integrations with common e-commerce platforms
+- Improve AI-driven decision logic
+- Provide templates for broader adoption
+
+## Contribution
+
+This project will be gradually expanded into open-source workflows. Contributions and ideas are welcome in future stages.
